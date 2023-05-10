@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analytics and Cloud Computing 
 - 🌱 I’m currently learning Azubi Data Analytics Professional Certification
 - 💞️ I’m looking to collaborate on machine learning projects 
-- 📫 Connect with me on https://www.linkedin.com/in/alidu-abubakari-2612bb57/ 
+- 📫 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidu-abubakari-2612bb57/) 
 
 <!---
 aliduabubakari/aliduabubakari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
