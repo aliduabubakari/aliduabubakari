@@ -33,9 +33,9 @@ I'm Alidu Abubakari, a passionate data enthusiast with a keen interest in Data A
 
 ## Skills
 
-- ![Data Analytics](https://example.com/data-analytics-icon.png) Data Analytics
-- ![Machine Learning](https://example.com/machine-learning-icon.png) Machine Learning
-- ![Cloud Computing](https://example.com/cloud-computing-icon.png) Cloud Computing
+- ![Data Analytics](https://www.flaticon.com/free-icon/laptop-data-analytics-graphic-on-screen-with-circles_38868) Data Analytics
+- ![Machine Learning](https://www.flaticon.com/free-icon/machine-learning_2172891) Machine Learning
+- ![Cloud Computing](https://www.flaticon.com/free-icon/cloud-storage_4319147) Cloud Computing
 - ![Cloud FinOps](https://example.com/cloud-finops-icon.png) Cloud FinOps
 - ![Python](https://example.com/python-icon.png) Python
 - ![SQL](https://example.com/sql-icon.png) SQL
