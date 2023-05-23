@@ -14,7 +14,7 @@
   </a>
 </p>
 
-# Hi there! 👋
+# Hi there! 👋 👋 👋
 
 
 I'm Alidu Abubakari, a passionate data enthusiast with a keen interest in Data Analytics and Cloud Computing.
@@ -43,12 +43,13 @@ I'm Alidu Abubakari, a passionate data enthusiast with a keen interest in Data A
 
 - [Project 1](https://github.com/aliduabubakari/Forecasting-Future-Sales-for-Corporaci-n-Favorita-Grocery.git): This is a project to forecast grocery sales for Corporación Favorita, an Ecuadorian grocery chain.
 
-- [Project 2](https://github.com/aliduabubakari/Telco-Customer-Churn)): In this project, we aim to find the likelihood of a customer leaving the organization, the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
+- [Project 2](https://github.com/aliduabubakari/Telco-Customer-Churn): In this project, we aim to find the likelihood of a customer leaving the organization, the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
 
 - [Project 3](https://github.com/aliduabubakari/Streamlit-grocery-sales-prediction-app): Building a machine learning (regression model) webapp for grocery sales prediction using streamlit
-- 
+
 
 Feel free to explore my GitHub repositories to find more interesting projects and contributions.
+
 
 Let's connect and collaborate to make an impact in the exciting world of data analytics and machine learning!
 
