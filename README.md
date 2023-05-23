@@ -23,7 +23,7 @@
 
 I'm Alidu Abubakari, a passionate data enthusiast with a keen interest in Data Analytics and Cloud Computing.
 
-## About Me
+## About Me 👤 👤 👤
 
 - 🔭 I'm currently working on completing the Azubi Data Analytics Professional Certification, expanding my skills and knowledge in the field.
 - 🌱 I'm continuously learning and exploring new tools, techniques, and technologies related to data analytics and cloud computing.
@@ -31,7 +31,7 @@ I'm Alidu Abubakari, a passionate data enthusiast with a keen interest in Data A
 - 💬 Feel free to reach out to me to discuss anything related to data analytics, cloud computing, or collaboration opportunities.
 - 📫 You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidu-abubakari-2612bb57/) to stay updated with my latest projects and activities.
 
-## Skills
+## Skills  ⚙️ ⚙️ ⚙️
 
 - <img src="https://img.favpng.com/19/19/7/analytics-computer-icons-data-analysis-data-science-png-favpng-shG6tVJzrLrUvefyYXcgsMFEi.jpg" alt="Data Analytics" width="32" height="32"> Data Analytics
 - <img src="https://www.kindpng.com/picc/m/74-742079_machine-learning-icons-png-transparent-png.png" alt="Machine Learning" width="32" height="32"> Machine Learning
@@ -47,7 +47,7 @@ I'm Alidu Abubakari, a passionate data enthusiast with a keen interest in Data A
 -  <img src="https://fastapi-tutorial.readthedocs.io/en/latest/img/fastAPI.png" alt="FastApi" width="32" height="32"> FastApi
 
 
-## Projects
+## Projects 📂 📂 📂 
 
 - [Project 1](https://github.com/aliduabubakari/Forecasting-Future-Sales-for-Corporaci-n-Favorita-Grocery.git): This is a project to forecast grocery sales for Corporación Favorita, an Ecuadorian grocery chain.
 
@@ -55,7 +55,7 @@ I'm Alidu Abubakari, a passionate data enthusiast with a keen interest in Data A
 
 - [Project 3](https://github.com/aliduabubakari/Streamlit-grocery-sales-prediction-app): Building a machine learning (regression model) webapp for grocery sales prediction using streamlit
 
- ## Articles
+ ## Articles 📚 📚 📚
  
  - [Unveiling the Drivers of Customer Churn: An Analytical Journey to Improve Retention](https://medium.com/@alidu143/unveiling-the-drivers-of-customer-churn-an-analytical-journey-to-improve-retention-part-2-ad561a05c20f)
 
