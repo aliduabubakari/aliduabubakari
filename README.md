@@ -33,14 +33,18 @@ I'm Alidu Abubakari, a passionate data enthusiast with a keen interest in Data A
 
 ## Skills
 
-- ![Data Analytics](https://www.flaticon.com/free-icon/laptop-data-analytics-graphic-on-screen-with-circles_38868) Data Analytics
-- ![Machine Learning](https://www.flaticon.com/free-icon/machine-learning_2172891) Machine Learning
-- ![Cloud Computing](https://www.flaticon.com/free-icon/cloud-storage_4319147) Cloud Computing
-- ![Cloud FinOps](https://example.com/cloud-finops-icon.png) Cloud FinOps
-- ![Python](https://example.com/python-icon.png) Python
-- ![SQL](https://example.com/sql-icon.png) SQL
-- ![Data Visualization](https://example.com/data-visualization-icon.png) Data Visualization
-- ![Statistical Analysis](https://example.com/statistical-analysis-icon.png) Statistical Analysis
+- <img src="https://img.favpng.com/19/19/7/analytics-computer-icons-data-analysis-data-science-png-favpng-shG6tVJzrLrUvefyYXcgsMFEi.jpg" alt="Data Analytics" width="32" height="32"> Data Analytics
+- <img src="https://www.kindpng.com/picc/m/74-742079_machine-learning-icons-png-transparent-png.png" alt="Machine Learning" width="32" height="32"> Machine Learning
+- <img src="https://th.bing.com/th/id/R.e54e8fa95a1337104425c511d8f7efaa?rik=GUciO%2bvoyjW0zw&riu=http%3a%2f%2fcxparadise.com%2fassets%2fimg%2fAWS_Cloud.png&ehk=4GzfhMa5RN8EU2iDBOhlETt9RcdkVRXjjNyZisH2llA%3d&risl=&pid=ImgRaw&r=0" alt="Cloud Computing" width="32" height="32"> Cloud Computing
+- <img src="https://surveymonkey-assets.s3.amazonaws.com/collector/402155112/image_upload/f1c202c1-f2dc-460d-8a0a-24499579b08c.png" alt="Cloud FinOps" width="32" height="32"> Cloud FinOps
+- <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" alt="Python" width="32" height="32"> Python
+- <img src="https://www.microsoft.com/en-us/sql-server/developer-get-started/sql-devops/img/sqldevops.png" alt="SQL" width="32" height="32"> SQL
+- <img src="https://thumbs.dreamstime.com/b/data-visualization-isolated-icon-simple-element-illustration-technology-concept-icons-editable-logo-sign-symbol-design-142287524.jpg" alt="Data Visualization" width="32" height="32"> Data Visualization
+- <img src="https://www.clipartmax.com/png/middle/96-966181_cryptocurrency-and-ico-market-analysis-from-the-digital-market-analysis.png" alt="Statistical Analysis" width="32" height="32"> Statistical Analysis
+- <img src="https://miro.medium.com/max/1000/1*njd7leqKQ9uZ22V5wA3jng.png" alt="Streamlit app development" width="32" height="32"> Streamlit App Dev
+- <img src="https://huggingface.co/front/assets/spaces-launch-page/gradio-logo.svg" alt="Gradio app development" width="32" height="32"> Gradio App Dev
+- <img src="https://luxcapital-website-media.s3.amazonaws.com/wp-content/uploads/2019/12/23115642/Logo-600x554.png" alt="NLP with Huggingface" width="32" height="32"> Natural Language Processing 
+-  <img src="https://fastapi-tutorial.readthedocs.io/en/latest/img/fastAPI.png" alt="FastApi" width="32" height="32"> FastApi
 
 
 ## Projects
@@ -56,6 +60,8 @@ I'm Alidu Abubakari, a passionate data enthusiast with a keen interest in Data A
  - [Unveiling the Drivers of Customer Churn: An Analytical Journey to Improve Retention](https://medium.com/@alidu143/unveiling-the-drivers-of-customer-churn-an-analytical-journey-to-improve-retention-part-2-ad561a05c20f)
 
 - [Building a Customer Churn Prediction Web App with Gradio: A Step-by-Step Guide](https://medium.com/@alidu143/building-a-customer-churn-prediction-web-app-with-gradio-a-step-by-step-guide-5d7d77ede323) 
+
+- [Analyzing sentiment towards the Covid vaccines Using pretrained Huggingface models](https://medium.com/@alidu143/analyzing-sentiment-towards-the-covid-vaccines-using-pretrained-huggingface-models-8222d2e3610d) 
  
 
 Feel free to explore my GitHub repositories to find more interesting projects and contributions.
