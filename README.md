@@ -77,10 +77,10 @@ Let's connect and collaborate to make an impact in the exciting world of data an
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliduabubakari&layout=compact&langs_count=6" alt="Top Languages" width="400" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliduabubakari&layout=compact&langs_count=6" alt="Top Languages" width="350" />
   </a>
   <a href="https://github.com/your-github-aliduabubakari">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=aliduabubakari&show_icons=true&theme=dracula" alt="GitHub Stats" width="400" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=aliduabubakari&show_icons=true&theme=dracula" alt="GitHub Stats" width="350" />
   </a>
 </div>
 
