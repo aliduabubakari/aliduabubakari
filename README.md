@@ -17,19 +17,17 @@
   </a>
 </p>
 
+# 👋 Hi, I'm Alidu Abubakari
 
-# Hi there! 👋 👋 👋
+I'm a passionate researcher and data enthusiast specializing in **Data Analytics**, **Cloud Computing**, **ETL pipelines**, and **AI-driven solutions**.
 
+## About Me 👤
 
-I'm Alidu Abubakari, a passionate data enthusiast with a keen interest in Data Analytics and Cloud Computing.
-
-## About Me 👤 👤 👤
-
-- 🔭 I'm currently working on completing the Azubi Data Analytics Professional Certification, expanding my skills and knowledge in the field.
-- 🌱 I'm continuously learning and exploring new tools, techniques, and technologies related to data analytics and cloud computing.
-- 👯 I'm looking to collaborate on exciting machine learning projects and contribute to the data science community.
-- 💬 Feel free to reach out to me to discuss anything related to data analytics, cloud computing, or collaboration opportunities.
-- 📫 You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidu-abubakari-2612bb57/) to stay updated with my latest projects and activities.
+- 🎓 Currently pursuing a Ph.D. in Computer Science at **University of Milano-Bicocca**, focusing on semantic table interpretation, scalable data enrichment pipelines, and AI research.
+- 🛠️ Completed the **Azubi Data Analytics Professional Certification**, and continuously expanding my expertise in data analytics, machine learning, and cloud technologies.
+- 🚀 Experienced in building ETL pipelines, scalable data solutions, and integrating AI into real-world applications.
+- 🤝 Open to collaboration on machine learning, data engineering, and AI research projects.
+- 📫 Let's connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidu-abubakari-2612bb57/)
 
 ## Skills  ⚙️ ⚙️ ⚙️
 
